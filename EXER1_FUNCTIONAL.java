@@ -1,5 +1,5 @@
 /// **************************************************************
-// File Name: Exer1_Functional.java
+// File Name: EXER1_FUNCTIONAL.java
 // Author: Jason Salim
 // Date: September 04 2025
 // Deskripsyon: Nagpakita sa konsepto sa Functional Programming
